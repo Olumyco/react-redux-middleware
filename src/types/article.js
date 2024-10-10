@@ -1,0 +1,5 @@
+export const types = {
+    POST_ARTICLE: 'POST_ARTICLE',
+    MAX_CHAR_LEN_EXCEEDED: 'MAX_CHAR_LEN_EXCEEDED',
+    API_POSTS: 'API_POSTS'
+};
